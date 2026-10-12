@@ -1,0 +1,20 @@
+# Large / derived / third-party files: do not commit
+*.tif
+*.tiff
+*.vrt
+*.kmz
+*.kml
+*.pdf
+*.PDF
+*.png
+T30S_R33E_Kern_1911_native.jpg
+scan/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Keep the small example preview
+!docs/example_result.jpg
